@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nassim-arifette.github.io/sitemap.xml
+Sitemap: https://bpmazino.github.io/nassimarifette/sitemap.xml
